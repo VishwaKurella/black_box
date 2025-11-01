@@ -1,8 +1,4 @@
-mod utils;
 mod error;
+mod utils;
 
-use crate::utils::system_utils::SystemUtils;
-
-fn main() {
-
-}
+fn main() {}
